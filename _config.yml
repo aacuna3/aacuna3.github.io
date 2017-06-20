@@ -5,29 +5,29 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Alexa-Marie Acuna
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Adorable Software Developer in Training</h1>
+     <p>Just your friendly neighborhood CoderLady</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: alexamarieacuna@gmail.com
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: https://www.facebook.com/alexamarie1
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: aacuna3
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: acuna_matata_mama
+  linkedin:  https://www.linkedin.com/in/alexa-marie-acuna-880220139/
   pinterest:
   reddit:
   soundcloud:
